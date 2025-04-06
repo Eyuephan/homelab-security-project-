@@ -44,7 +44,7 @@ Aufbau und Dokumentation eines sicheren, modularen Heimnetzwerks mit eigener Web
 
 ## 📄 Dokumentation
 
-➡️ [Zur ausführlichen Voranalyse](docs/Voranalyse.md)
+➡️ [Zur ausführlichen Voranalyse](/Voranalyse.md)
 
 
 
