@@ -42,4 +42,9 @@ Aufbau und Dokumentation eines sicheren, modularen Heimnetzwerks mit eigener Web
 | **Dokumentation**| GitHub Pages + PDF-Export                           |
 
 
+## 📄 Dokumentation
+
+➡️ [Zur ausführlichen Voranalyse](docs/Voranalyse.md)
+
+
 
